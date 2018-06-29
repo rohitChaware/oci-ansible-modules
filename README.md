@@ -35,6 +35,8 @@ Begin by reviewing the Readme.md file that you will find in each sample's root d
 
 Full documentation, including prerequisites, installation and configuration instructions, can be found [here](https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansible.htm).
 
+Web-documentation for OCI Ansible modules can be found [here](https://oracle-cloud-infrastructure-ansible-modules.readthedocs.io).
+
 ## Help
 
 See the ["Questions or Feedback”](https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansible.htm) section.
