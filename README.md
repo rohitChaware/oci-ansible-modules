@@ -40,6 +40,8 @@ Documentation to get started and details about prerequisites, installation and c
 
 FAQs, technical design documents and development HOWTOs, and web documentation for the OCI Ansible modules can be found [here](https://oracle-cloud-infrastructure-ansible-modules.readthedocs.io).
 
+Web-documentation for OCI Ansible modules can be found [here](https://oracle-cloud-infrastructure-ansible-modules.readthedocs.io).
+
 ## Help
 
 See the ["Questions or Feedback”](https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansible.htm) section.
